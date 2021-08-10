@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="haloapping.github.io.level.easy.SpotlightSumTest" time="0.03" tests="64" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="haloapping.github.io.level.easy.SpotlightSumTest" time="0.007" tests="64" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="16"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ID"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-16.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\62821\AppData\Local\Temp\surefire10847444398057429408\surefirebooter11657042552267042422.jar C:\Users\62821\AppData\Local\Temp\surefire10847444398057429408 2021-08-05T08-43-50_386-jvmRun1 surefire1757810147977118163tmp surefire_02556077143301156841tmp"/>
+    <property name="sun.java.command" value="C:\Users\62821\AppData\Local\Temp\surefire5007463497549614908\surefirebooter14685859865507901227.jar C:\Users\62821\AppData\Local\Temp\surefire5007463497549614908 2021-08-07T13-49-50_379-jvmRun1 surefire16775007873253278504tmp surefire_0952088679632184628tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\work\Java\edabit-challenges\target\test-classes;D:\work\Java\edabit-challenges\target\classes;C:\Users\62821\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\62821\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\62821\AppData\Local\Temp\surefire10847444398057429408\surefirebooter11657042552267042422.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\62821\AppData\Local\Temp\surefire5007463497549614908\surefirebooter14685859865507901227.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="16.0.1+9-24"/>
@@ -55,7 +55,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="60.0"/>
   </properties>
-  <testcase name="test01" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
+  <testcase name="test01" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0.001"/>
   <testcase name="test02" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test03" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test04" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
@@ -80,7 +80,7 @@
   <testcase name="test23" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test24" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test25" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
-  <testcase name="test26" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0.004"/>
+  <testcase name="test26" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test27" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test28" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test29" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
@@ -90,8 +90,8 @@
   <testcase name="test33" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test34" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test35" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
-  <testcase name="test36" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0.002"/>
-  <testcase name="test37" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0.001"/>
+  <testcase name="test36" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
+  <testcase name="test37" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test38" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test39" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test40" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
@@ -109,7 +109,7 @@
   <testcase name="test52" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test53" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test54" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
-  <testcase name="test55" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0.003"/>
+  <testcase name="test55" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test56" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test57" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
   <testcase name="test58" classname="haloapping.github.io.level.easy.SpotlightSumTest" time="0"/>
